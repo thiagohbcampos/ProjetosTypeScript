@@ -1,2 +1,2 @@
 # ProjetosTypeScript
- Repositório com projetos do curso sobre TypeScritp
+ Repositório com projetos do curso sobre TypeScript
